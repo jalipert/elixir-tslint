@@ -1,5 +1,5 @@
 var gulp   = require( 'gulp' );
-var jshint = require( 'gulp-tslint' );
+var tslint = require( 'gulp-tslint' );
 var Elixir = require( 'laravel-elixir' );
 
 /*

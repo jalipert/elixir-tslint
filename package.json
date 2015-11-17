@@ -1,6 +1,6 @@
 {
   "name": "elixir-tslint",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "gulp-tslint": "^3.6.0"
   },
