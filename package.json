@@ -1,0 +1,28 @@
+{
+  "name": "elixir-tslint",
+  "version": "0.1.1",
+  "dependencies": {
+    "gulp-tslint": "^3.6.0"
+  },
+  "description": "TypeScript linter Elixir ingredient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalipert/elixir-tslint.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "typescript",
+    "lint"
+  ],
+  "author": "Joe Aliperti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalipert/elixir-tslint/issues"
+  },
+  "homepage": "https://github.com/jalipert/elixir-tslint#readme"
+}
